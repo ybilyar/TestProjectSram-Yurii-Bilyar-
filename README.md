@@ -22,7 +22,14 @@ Using the environment and tools of your choice, write a native mobile applicatio
 
 
 
+---
+<img src="https://github.com/ybilyar/TestProjectSram-Yurii-Bilyar-/blob/main/TestProject/Assets.xcassets/IMG_3406.PNG?raw=true" alt="drawing" width="400"/>
+<img src="https://github.com/ybilyar/TestProjectSram-Yurii-Bilyar-/blob/main/TestProject/Assets.xcassets/IMG_3407.PNG?raw=true" alt="drawing" width="400"/>
+<img src="https://github.com/ybilyar/TestProjectSram-Yurii-Bilyar-/blob/main/TestProject/Assets.xcassets/IMG_3409.PNG?raw=true" alt="drawing" width="400"/>
 
+
+
+---
 
 
 
