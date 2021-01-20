@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TestProject.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>33101AC7BCCD2166D76327A8370BE6B127CBF87F</string>
+				<key>dateExpires</key>
+				<string>1/2/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>33101AC7BCCD2166D76327A8370BE6B127CBF87F</string>
+						<key>dateExpires</key>
+						<string>1/2/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U9ZLQX6T6U</string>
+						<key>name</key>
+						<string>ayesha zahid</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>33101AC7BCCD2166D76327A8370BE6B127CBF87F</string>
+						<key>dateExpires</key>
+						<string>1/2/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MBProgressHUD.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U9ZLQX6T6U</string>
+						<key>name</key>
+						<string>ayesha zahid</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>33101AC7BCCD2166D76327A8370BE6B127CBF87F</string>
+						<key>dateExpires</key>
+						<string>1/2/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ObjectMapper.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U9ZLQX6T6U</string>
+						<key>name</key>
+						<string>ayesha zahid</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>33101AC7BCCD2166D76327A8370BE6B127CBF87F</string>
+						<key>dateExpires</key>
+						<string>1/2/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>U9ZLQX6T6U</string>
+						<key>name</key>
+						<string>ayesha zahid</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>U9ZLQX6T6U.com.test.location.TestProjects</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>U9ZLQX6T6U</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>U9ZLQX6T6U.com.test.location.TestProjects</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TestProject.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3f8d07b8-d00c-4c1d-a6ef-5c9232c84f4f</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.test.location.TestProjects</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>U9ZLQX6T6U</string>
+				<key>name</key>
+				<string>ayesha zahid</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
